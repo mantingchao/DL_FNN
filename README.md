@@ -8,4 +8,4 @@
 ### Run
 cmd
 python FNN.py --config ＜config＞.json --weight ＜weight＞.npz --imgfilelistname ＜imgfilelistname＞.txt
-<輸入絕對路徑>
+#######<輸入絕對路徑>
