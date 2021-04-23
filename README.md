@@ -6,6 +6,6 @@
 - 資料來源為 MedMNIST.zip，分為train.nzp及test.nzp
 
 ### Run
-cmd
-python FNN.py --config ＜config＞.json --weight ＜weight＞.npz --imgfilelistname ＜imgfilelistname＞.txt
-#######<輸入絕對路徑>
+cmd  
+python FNN.py --config ＜config＞.json --weight ＜weight＞.npz --imgfilelistname ＜imgfilelistname＞.txt  
+<輸入絕對路徑>
