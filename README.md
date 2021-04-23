@@ -5,7 +5,7 @@
 - 實作FNN架，包含forward and backward，且利用mini-batch SGD方式來更新參數
 - 資料來源為 MedMNIST.zip，分為train.nzp及test.nzp
 
-### Run
+### Run 
 cmd  
 python FNN.py --config ＜config＞.json --weight ＜weight＞.npz --imgfilelistname ＜imgfilelistname＞.txt  
 <輸入絕對路徑>
